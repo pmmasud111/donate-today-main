@@ -44,7 +44,6 @@
 .header_title {
     font-size: 60px;
     text-align: center;
-
 }
 
 .header_description {
@@ -120,7 +119,6 @@ hr {
     margin-bottom: 20px;
     font-size: 45px;
     font font-weight: 700px;
-
 }
 
 .donate_plan_description {
@@ -136,7 +134,6 @@ hr {
     padding: 30px;
     border-radius: 10px;
     margin-bottom: 200px;
-
 }
 
 .planning_title {
@@ -156,7 +153,6 @@ hr {
     max-width: 1140px;
     margin: 0 auto;
     gap: 50px;
-
 }
 
 .donation_container img {
@@ -184,8 +180,6 @@ hr {
     max-width: 1140px;
     margin: 200px auto 200px auto;
     gap: 50px;
-
-
 }
 
 .survive_container img {
@@ -205,8 +199,6 @@ hr {
     color: #707070;
     margin-bottom: 30px;
 }
-
-.subscribe_container {}
 
 .subscribe_title {
     font-size: 45px;
